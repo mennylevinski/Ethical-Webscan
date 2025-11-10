@@ -35,3 +35,10 @@ Use responsibly and in compliance with your local governance.
 - No external packages required
 
 ### 2️ Download & Run
+
+---
+
+### Third-Party Attributions
+This project uses the Requests library (© 2019 Kenneth Reitz)  
+Licensed under the Apache License 2.0  
+https://github.com/psf/requests
