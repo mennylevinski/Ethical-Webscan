@@ -31,7 +31,7 @@ Use responsibly and in compliance with your local governance.
 
 ### 1️ Requirements
 - Python **3.8+**
-- Works on **Windows**, **Linux** and **macOS**
+- Works on **Windows**, **Linux**
 - Install dependency:
   ```bash
   pip install requests
