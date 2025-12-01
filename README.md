@@ -30,7 +30,7 @@ Use responsibly and in compliance with your local governance.
 ## ⚙️ Installation
 
 ### 1️ Requirements
-- Python **3.8+**
+- Python **3.0+**
 - Works on **Windows**, **Linux**
 - Install dependency:
   ```bash
