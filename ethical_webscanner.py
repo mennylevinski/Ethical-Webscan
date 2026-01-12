@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 """
 Author: Menny Levinski
@@ -349,7 +350,6 @@ def main():
     report = scan_and_report(target)
     print(f'Done. Detailed report saved to: {report}')
     input("\nScan finished! Press Enter to exit...")
-
 
 if __name__ == '__main__':
     try:
