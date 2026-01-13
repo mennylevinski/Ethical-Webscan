@@ -351,6 +351,7 @@ def main():
     print(f'Done. Detailed report saved to: {report}')
     input("\nScan finished! Press Enter to exit...")
 
+# --- Output ---
 if __name__ == '__main__':
     try:
         main()
