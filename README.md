@@ -37,6 +37,7 @@ Use responsibly and in compliance with your local governance.
   pip install requests
 
 ### 2️ Download & Run
+- [ethical_web_scanner.py](ethical_web_scanner.py)
 
 ---
 
