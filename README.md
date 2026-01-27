@@ -1,6 +1,6 @@
 # Ethical Web Scanner
 
-Cross-platform interactive web vulnerability scanner.
+Cross platform interactive web vulnerability scanner.
 Built for **ethical diagnostics** and **security awareness**.
 
 ---
